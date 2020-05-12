@@ -5,6 +5,8 @@ In my Spring 2020 semester at Rowan University I co-created a Shiny application 
 
 This Shiny App was created as a final assignment for the course and is live under a **free-tier** RStudio account, therefore only 25 active hours are permitted per month. If the website is down please contact me via Twitter with concerns.
 
+Live Website: [Here](https://npaterna.shinyapps.io/covid19_tracker/)
+
 Stephanie Spielman
 --------------------
 [Twitter](https://twitter.com/stephspiel) & [Gitub](https://github.com/sjspielman)
